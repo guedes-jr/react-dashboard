@@ -1,15 +1,15 @@
-…or create a new repository on the command line
-
+### …or create a new repository on the command line
+```bash
 git init
 git add .
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/guedes-jr/react-dashboard.git
 git push -u origin main
-
-_______________________________________________________________________________
-…or push an existing repository from the command line
-
+```
+### …or push an existing repository from the command line
+```bash
 git remote add origin https://github.com/guedes-jr/react-dashboard.git
 git branch -M main
 git push -u origin main
+```
