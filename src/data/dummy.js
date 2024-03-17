@@ -474,25 +474,25 @@ export const links = [
     title: 'Dashboard',
     links: [
       {
-        name: 'ecommerce',
+        name: 'E-comerce',
         icon: <FiShoppingBag />,
       },
     ],
   },
 
   {
-    title: 'Pages',
+    title: 'Páginas',
     links: [
       {
-        name: 'orders',
+        name: 'Ordens',
         icon: <AiOutlineShoppingCart />,
       },
       {
-        name: 'employees',
+        name: 'Funcionários',
         icon: <IoMdContacts />,
       },
       {
-        name: 'customers',
+        name: 'Clientes',
         icon: <RiContactsLine />,
       },
     ],
@@ -501,57 +501,57 @@ export const links = [
     title: 'Apps',
     links: [
       {
-        name: 'calendar',
+        name: 'Calendário',
         icon: <AiOutlineCalendar />,
       },
       {
-        name: 'kanban',
+        name: 'Kanban',
         icon: <BsKanban />,
       },
       {
-        name: 'editor',
+        name: 'Editor',
         icon: <FiEdit />,
       },
       {
-        name: 'color-picker',
+        name: 'Seletor de Cores',
         icon: <BiColorFill />,
       },
     ],
   },
   {
-    title: 'Charts',
+    title: 'Gráficos',
     links: [
       {
-        name: 'line',
+        name: 'Linha',
         icon: <AiOutlineStock />,
       },
       {
-        name: 'area',
+        name: 'Área',
         icon: <AiOutlineAreaChart />,
       },
 
       {
-        name: 'bar',
+        name: 'Barra',
         icon: <AiOutlineBarChart />,
       },
       {
-        name: 'pie',
+        name: 'Pizza',
         icon: <FiPieChart />,
       },
       {
-        name: 'financial',
+        name: 'Financeiro',
         icon: <RiStockLine />,
       },
       {
-        name: 'color-mapping',
+        name: 'Mapa de cores',
         icon: <BsBarChart />,
       },
       {
-        name: 'pyramid',
+        name: 'Piramide',
         icon: <GiLouvrePyramid />,
       },
       {
-        name: 'stacked',
+        name: 'Pilhas',
         icon: <AiOutlineBarChart />,
       },
     ],
