@@ -40,7 +40,7 @@ module.exports = {
         },
         backgroundImage: {
           'hero-pattern':
-            "url('https://i.ibb.co/MkvLDfb/Rectangle-4389.png')",
+            "url('https://www.defensoria.ce.def.br/wp-content/uploads/2023/07/Slide1-1-1024x768-1.jpg')",
         },
       },
     },
